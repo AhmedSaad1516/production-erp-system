@@ -1,0 +1,21 @@
+{
+  "homeSlider": {
+    "Welcome": "Welcome",
+    "Welcome to Erp Dashboard": "Welcome to Erp Dashboard!👋",
+    "Please sign-in to your account": "Please sign-in to your account",
+    "Username ": "Username",
+    "Password ": "Password",
+    "Enter your username": "Enter your username",
+    "Username is required": "Username is required.",
+    "Username must be a valid email address":"Username must be a valid email address",
+    "Password is required":"Password is required",
+    "Sign in":"Sign in",
+      "New on our platform?":"New on our platform?",
+      "Create an account":"Create an account",
+      "Change Theme":"Change Theme",
+      "Dark Mode":"Dark Mode",
+      "Light Mode":"Light Mode"
+
+
+  }
+}
